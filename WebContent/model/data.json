@@ -1,0 +1,20 @@
+{ "quiz" : [
+  			{"question" :"Which of the one method is NOT available in all the SAPUI5 view controller?",
+   			 "answer":[
+             			{"option": "onInit()"},
+           	 			{"option": "onExit()"},
+  						{"option": "onPress()"},
+  						{"option": "onAfterRendering()"},
+  						{"option": "onBeforeRendering()"} 
+ 					   ] 
+             }, 
+             {"question" :"Which of the one is NOT SAPUI5 binding type?",
+   			 "answer":[
+             			{"option": "Property Binding"},
+           	 			{"option": "Aggregation Binding"},
+  						{"option": "Event Binding"},
+  						{"option": "Element Binding"}
+ 					   ] 
+             } 
+			]
+}
